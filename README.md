@@ -17,7 +17,7 @@ Scene Change Sound is a Foundry VTT add-on that plays an audio file when the Gam
 
 1. In the Foundry VTT's setup menu, click the **Add-on Modules** tab.
 2. Click the **Install Module** button.
-3. Enter the following manifest URL: `https://raw.githubusercontent.com/your-github-account/scene-change-sound/main/module.json`
+3. Enter the following manifest URL: `https://raw.githubusercontent.com/efmitchell/scene-change-sound/main/module.json`
 4. Click the **Install** button and wait for the installation to complete.
 
 ## Configuration
