@@ -1,0 +1,16 @@
+{
+  "name": "scene-change-sound",
+  "title": "Scene Change Sound",
+  "description": "Play an audio file when changing scenes in Foundry VTT.",
+  "author": "Elliot Mitchell",
+  "version": "0.1.0",
+  "minimumCoreVersion": "0.8.6",
+  "compatibleCoreVersion": "9.0.0",
+  "url": "https://github.com/efmitchell/scene-change-sound",
+  "manifest": "https://raw.githubusercontent.com/your-github-account/scene-change-sound/main/module.json",
+  "download": "https://github.com/efmitchell/scene-change-sound/archive/main.zip",
+  "esmodules": ["scene-change-sound.js"],
+  "packs": [],
+  "systems": [],
+  "dependencies": []
+}
